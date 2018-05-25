@@ -1,5 +1,4 @@
 from pymongo import MongoClient
-import vk
 import constants
 import app
 def insertNewUser(username, who, id):
